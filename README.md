@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AngelinaTsunik
-- 👀 I’m interested in Automated Testing.
+- 👋 Hi, I’m @AngelinaTsunik.
+- 👀 I’m interested in Test Automation.
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me: atsunik99@gmail.com
 
